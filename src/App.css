@@ -1,0 +1,82 @@
+.App {
+  text-align: center;
+}
+
+.input{
+  margin-top: 100px;
+  
+}
+.list{
+  margin-top: 50px;
+  border: 1px solid black;
+  height: 30rem;
+}
+.todolist{
+  width: 90%;
+  height: 1000px;
+  margin: 30px auto;
+  background-color: black;
+  color: whitesmoke;
+  padding: 30px;
+}
+.setitem{
+  margin: auto;
+  margin-top: 30px;
+  width: 80%;
+  height: 9000px;
+}
+.lable{
+  background-color: azure;
+  color: black;
+  font-size: 40px;
+}
+.list{
+  margin: auto;
+}
+.button{
+  height: 20px;
+  background-color: aqua;
+}
+.header{
+  margin: auto;
+}
+.li{
+  width: 380px;
+  height: 150px;
+  /* background-color: aquamarine; */
+  float: left;
+  color: black;
+  list-style: none;
+  margin-top: 5px;
+  margin-left: 7px;
+  font-size: 20px;
+
+}
+.containermain{
+  width: 400px;
+  height: 250px;
+  border-radius:1em;
+  background-color: white;
+  float: left;
+  margin-left: 20px;
+  margin-top: 20px;
+  
+}
+.but{
+  float: left;
+}
+.inputtext{
+  text-align: center;
+}
+.action{
+  margin-left: 85px;
+  margin-top: 25px;
+  float: left;
+}
+.title{
+  color: black;
+  text-align: center;
+}
+.par{
+  color: black;
+}
