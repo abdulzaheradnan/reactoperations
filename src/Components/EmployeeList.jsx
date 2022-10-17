@@ -1,3 +1,5 @@
+//hello good moring, my name is adnan and im a front end developer.
+
 import React from 'react'
 
 function EmployeeList({list}) {
@@ -29,3 +31,6 @@ function EmployeeList({list}) {
 }
 
 export default EmployeeList
+
+
+//hello good moring, my name is faraz fz and im a front end developer.
